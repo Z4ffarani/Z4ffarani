@@ -70,9 +70,9 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/canva/00C4CC" height="40" alt="canva logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ableton" height="40" alt="abletonlive logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="40" alt="trello logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ableton" height="40" alt="abletonlive logo"  />
 </div>
 
 ###
