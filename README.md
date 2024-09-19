@@ -1,11 +1,11 @@
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Z4ffarani&locale=en&mode=daily&theme=react&hide_border=true&border_radius=5&order=3" height="140" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Z4ffarani&locale=en&hide_title=false&layout=compact&card_width=250&langs_count=5&theme=reactk&hide_border=true&order=2" height="140" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=Z4ffarani&locale=en&mode=daily&theme=react&hide_border=true&border_radius=10&order=3" height="140" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Z4ffarani&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=react&hide_border=true&order=2" height="140" alt="languages graph"  />
 </div>
 
 ###
 
-<h2 align="left">Programming</h2>
+<h1 align="left">Programming</h1>
 
 ###
 
@@ -53,7 +53,7 @@
 
 ###
 
-<h2 align="left">Other</h2>
+<h1 align="left">Other</h1>
 
 ###
 
@@ -70,14 +70,14 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/canva/00C4CC" height="40" alt="canva logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="40" alt="trello logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=ableton" height="40" alt="abletonlive logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="40" alt="trello logo"  />
 </div>
 
 ###
 
-<h2 align="left">Social media</h2>
+<h1 align="left">Social media</h1>
 
 ###
 
