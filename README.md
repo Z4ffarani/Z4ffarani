@@ -49,26 +49,39 @@
 
 ###
 
-<h1 align="left">Other</h1>
+<h1 align="left">Music</h1>
 
 ###
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=pr" height="40" alt="adobepremierepro logo"  />
-  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ableton" height="40" alt="abletonlive logo"  />
+</div>
+
+###
+
+<h1 align="left">Design</h1>
+
+###
+
+<div align="left">
   <img src="https://skillicons.dev/icons?i=ai" height="40" alt="adobeillustrator logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=ps" height="40" alt="adobephotoshop logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ae" height="40" alt="adobeaftereffects logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/canva/00C4CC" height="40" alt="canva logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ableton" height="40" alt="abletonlive logo"  />
+</div>
+
+###
+
+<h1 align="left">Editing</h1>
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=pr" height="40" alt="adobepremierepro logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="40" alt="trello logo"  />
+  <img src="https://skillicons.dev/icons?i=ae" height="40" alt="adobeaftereffects logo"  />
 </div>
 
 ###
