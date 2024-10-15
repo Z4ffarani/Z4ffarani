@@ -1,5 +1,3 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&size=50&pause=1000&color=00B2FF&center=true&vCenter=true&width=1000&height=80&lines=Software+Engineer;Music+Producer;Graphic+Designer;Video+Editor)
-
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Z4ffarani&locale=en&mode=daily&theme=react&hide_border=true&border_radius=10&order=3" height="140" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Z4ffarani&locale=en&hide_title=false&layout=compact&card_width=250&langs_count=5&theme=react&hide_border=true&order=2" height="140" alt="languages graph"  />
