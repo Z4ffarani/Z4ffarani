@@ -13,11 +13,11 @@
 
 ![Languages and databases](https://skillicons.dev/icons?i=html,css,js,nodejs,python,mongodb&theme=dark&perline=10)
 
-![Frameworks and libraries](https://skillicons.dev/icons?i=tailwindcss,styledcomponents,react,express&theme=dark&perline=10)
+![Frameworks and libraries](https://skillicons.dev/icons?i=tailwindcss,react,express&theme=dark&perline=10)
 
 ![Development tools](https://skillicons.dev/icons?i=git,npm,vercel,vite&theme=dark&perline=10)
 
-![Softwares](https://skillicons.dev/icons?i=windows,ubuntu,vscode,arduino,postman&theme=dark&perline=10)
+![Softwares](https://skillicons.dev/icons?i=windows,ubuntu,vscode,arduino=&theme=dark&perline=10)
 
 ###
 
