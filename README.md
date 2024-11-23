@@ -17,7 +17,7 @@
 
 ![Development tools](https://skillicons.dev/icons?i=git,npm,vercel,vite&theme=dark&perline=10)
 
-![Softwares](https://skillicons.dev/icons?i=windows,ubuntu,vscode,arduino,postman&theme=dark&perline=10)
+![Softwares](https://skillicons.dev/icons?i=windows,ubuntu,vscode,arduino,thunderclient&theme=dark&perline=10)
 
 ###
 
