@@ -13,7 +13,7 @@
 
 ![Languages and databases](https://skillicons.dev/icons?i=html,css,js,python,nodejs,mongodb&theme=dark&perline=10)
 
-![Frameworks and libraries](https://skillicons.dev/icons?i=tailwindcss,react,express&theme=dark&perline=10)
+![Frameworks and libraries](https://skillicons.dev/icons?i=react,tailwindcss&theme=dark&perline=10)
 
 ![Development tools](https://skillicons.dev/icons?i=git,npm,vercel,vite&theme=dark&perline=10)
 
