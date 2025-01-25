@@ -40,13 +40,4 @@
 
 ###
 
-<h1 align="left">Contact</h1>
-
-[![Linkedin](https://skillicons.dev/icons?i=linkedin&theme=dark)](https://www.linkedin.com/in/kaique-zaffarani/)
-[![Instagram](https://skillicons.dev/icons?i=instagram&theme=dark)](https://www.instagram.com/z4ffarani/)
-[![Discord](https://skillicons.dev/icons?i=discord&theme=dark)](https://www.discordapp.com/users/710153971041304607)
-[![E-mail](https://skillicons.dev/icons?i=gmail&theme=dark)](https://mail.google.com/mail/u/0/#inbox?compose=DmwnWrRvxMSwKvMRWzKxWDwcQmhxmJCQJflFxChNZSNzdbcPNQCcjGrxPpGlmpHqNRSnWvJMjwtb)
-
-###
-
 <img src="https://raw.githubusercontent.com/Z4ffarani/Z4ffarani/output/snake.svg" alt="Snake animation" />
