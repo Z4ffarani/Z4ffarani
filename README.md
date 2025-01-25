@@ -11,7 +11,7 @@
 
 <h1 align="left">Programming</h1>
 
-![Languages and databases](https://skillicons.dev/icons?i=html,css,js,python,mongodb&theme=dark&perline=10)
+![Languages and databases](https://skillicons.dev/icons?i=html,css,js,ts,python,mongodb&theme=dark&perline=10)
 
 ![Frameworks and libraries](https://skillicons.dev/icons?i=react,tailwindcss&theme=dark&perline=10)
 
@@ -21,9 +21,9 @@
 
 ###
 
-<h1 align="left">Music</h1>
+<h1 align="left">Editing</h1>
 
-![Music](https://skillicons.dev/icons?i=ableton&theme=dark&perline=10)
+![Editing](https://skillicons.dev/icons?i=pr,ae&theme=dark&perline=10)
 
 ###
 
@@ -34,9 +34,9 @@
 
 ###
 
-<h1 align="left">Editing</h1>
+<h1 align="left">Music</h1>
 
-![Editing](https://skillicons.dev/icons?i=pr,ae&theme=dark&perline=10)
+![Music](https://skillicons.dev/icons?i=ableton&theme=dark&perline=10)
 
 ###
 
