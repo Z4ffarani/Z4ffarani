@@ -11,13 +11,13 @@
 
 <h1 align="left">Programming</h1>
 
-![Languages and databases](https://skillicons.dev/icons?i=html,css,js,ts,java,python&theme=dark&perline=10)
+![Languages and databases](https://skillicons.dev/icons?i=python,java,html,css,js&theme=dark&perline=10)
 
 ![Frameworks and libraries](https://skillicons.dev/icons?i=react,next,tailwindcss,spring&theme=dark&perline=10)
 
 ![Development tools](https://skillicons.dev/icons?i=git,nodejs,npm&theme=dark&perline=10)
 
-![Softwares](https://skillicons.dev/icons?i=windows,vscode,arduino,postman&theme=dark&perline=10)
+![Softwares](https://skillicons.dev/icons?i=windows,vscode,docker,postman&theme=dark&perline=10)
 
 ###
 
