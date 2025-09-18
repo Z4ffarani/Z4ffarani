@@ -4,7 +4,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Z4ffarani&radius=16&theme=react&area=true&order=5&custom_title=Z4ffarani&hide_title=true&hide_border=true" height="223" alt="activity-graph graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Z4ffarani&radius=16&theme=react&area=true&order=5&custom_title=Z4ffarani&hide_title=true&hide_border=true" height="250" alt="activity-graph graph"  />
 </div>
 
 ###
