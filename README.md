@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Z4ffarani&locale=en&mode=daily&theme=react&hide_border=true&border_radius=10&order=3" height="140" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=Z4ffarani&show_icons=true&theme=react" height="140" alt="github stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Z4ffarani&show_icons=true&theme=react&hide_border=true" height="140" alt="github stats" />
 </div>
 
 <div align="center">
