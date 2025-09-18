@@ -1,5 +1,5 @@
 <img src="https://streak-stats.demolab.com?user=Z4ffarani&locale=en&mode=daily&theme=react&hide_border=true&border_radius=10&order=3" height="140" alt="streak graph"  />
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Z4ffarani&show_icons=true&theme=react&width=90px)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Z4ffarani&show_icons=true&theme=react)
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Z4ffarani&radius=16&theme=react&area=true&order=5&custom_title=Z4ffarani&hide_title=true&hide_border=true" height="223" alt="activity-graph graph"  />
