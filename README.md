@@ -1,4 +1,4 @@
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Z4ffarani&show_icons=true&theme=react&card_width=10px)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Z4ffarani&show_icons=true&theme=react&card_width=10)
 <img src="https://streak-stats.demolab.com?user=Z4ffarani&locale=en&mode=daily&theme=react&hide_border=true&border_radius=10&order=3" height="140" alt="streak graph"  />
 
 <div align="center">
