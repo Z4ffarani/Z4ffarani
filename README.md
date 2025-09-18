@@ -23,13 +23,13 @@
 
 <h1 align="left">Editing</h1>
 
-![Editing](https://skillicons.dev/icons?i=pr,ae&theme=dark&perline=10)
+![Editing](https://skillicons.dev/icons?i=pr&theme=dark&perline=10)
 
 ###
 
 <h1 align="left">Design</h1>
 
-![Design](https://skillicons.dev/icons?i=ai,ps,figma&theme=dark&perline=10)
+![Design](https://skillicons.dev/icons?i=ps,figma&theme=dark&perline=10)
 <img src="https://cdn.simpleicons.org/canva/00C4CC" height="40" alt="canva logo" />
 
 ###
