@@ -1,8 +1,5 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Z4ffarani&show_icons=true&theme=radical)
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Z4ffarani&locale=en&mode=daily&theme=react&hide_border=true&border_radius=10&order=3" height="140" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Z4ffarani&locale=en&hide_title=false&layout=compact&card_width=250&langs_count=5&theme=react&hide_border=true&order=2" height="140" alt="languages graph"  />
-</div>
+<img src="https://streak-stats.demolab.com?user=Z4ffarani&locale=en&mode=daily&theme=react&hide_border=true&border_radius=10&order=3" height="140" alt="streak graph"  />
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Z4ffarani&show_icons=true&theme=cobalt)
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Z4ffarani&radius=16&theme=react&area=true&order=5&custom_title=Z4ffarani&hide_title=true&hide_border=true" height="223" alt="activity-graph graph"  />
