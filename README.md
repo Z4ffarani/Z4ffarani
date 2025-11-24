@@ -37,7 +37,3 @@
 <h1 align="left">Music</h1>
 
 ![Music](https://skillicons.dev/icons?i=ableton&theme=dark&perline=10)
-
-###
-
-<img src="https://raw.githubusercontent.com/Z4ffarani/Z4ffarani/output/snake.svg" alt="Snake animation" />
