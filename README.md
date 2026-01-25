@@ -18,22 +18,3 @@
 ![Development tools](https://skillicons.dev/icons?i=git,nodejs,npm&theme=dark&perline=10)
 
 ![Softwares](https://skillicons.dev/icons?i=windows,vscode,docker,postman&theme=dark&perline=10)
-
-###
-
-<h1 align="left">Editing</h1>
-
-![Editing](https://skillicons.dev/icons?i=pr&theme=dark&perline=10)
-
-###
-
-<h1 align="left">Design</h1>
-
-![Design](https://skillicons.dev/icons?i=ps,figma&theme=dark&perline=10)
-<img src="https://cdn.simpleicons.org/canva/00C4CC" height="40" alt="canva logo" />
-
-###
-
-<h1 align="left">Music</h1>
-
-![Music](https://skillicons.dev/icons?i=ableton&theme=dark&perline=10)
