@@ -11,8 +11,8 @@
 
 <h1 align="left">Programming</h1>
 
-![Languages and databases](https://skillicons.dev/icons?i=python,java,html,css,js&theme=dark&perline=10)
+![Programming Languages](https://skillicons.dev/icons?i=solidity,python,java,html,css,js&theme=dark&perline=10)
 
-![Frameworks and libraries](https://skillicons.dev/icons?i=react,next,tailwindcss,spring&theme=dark&perline=10)
+![Frameworks and Libraries](https://skillicons.dev/icons?i=react,next,tailwindcss,spring&theme=dark&perline=10)
 
-![Development tools](https://skillicons.dev/icons?i=git,nodejs,npm,docker,postman&theme=dark&perline=10)
+![Development Tools](https://skillicons.dev/icons?i=git,nodejs,npm,docker,postman&theme=dark&perline=10)
