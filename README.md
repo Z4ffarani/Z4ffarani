@@ -15,6 +15,4 @@
 
 ![Frameworks and libraries](https://skillicons.dev/icons?i=react,next,tailwindcss,spring&theme=dark&perline=10)
 
-![Development tools](https://skillicons.dev/icons?i=git,nodejs,npm&theme=dark&perline=10)
-
-![Softwares](https://skillicons.dev/icons?i=windows,vscode,docker,postman&theme=dark&perline=10)
+![Development tools](https://skillicons.dev/icons?i=git,nodejs,npm,docker,postman&theme=dark&perline=10)
