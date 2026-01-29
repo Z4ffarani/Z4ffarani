@@ -11,7 +11,7 @@
 
 <h1 align="left">Programming</h1>
 
-![Languages](https://skillicons.dev/icons?i=python,java,html,css,js,solidity&theme=dark&perline=10)
+![Languages](https://skillicons.dev/icons?i=python,java,js,solidity,html,css&theme=dark&perline=10)
 
 ![Frameworks & Libraries](https://skillicons.dev/icons?i=react,next,tailwindcss,spring&theme=dark&perline=10)
 
