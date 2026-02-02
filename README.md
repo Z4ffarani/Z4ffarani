@@ -3,12 +3,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Z4ffarani&show_icons=true&theme=aura_dark&hide_border=true&border_radius=10&order=3" height="140" alt="github stats" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Z4ffarani&radius=16&theme=nord&area=true&order=5&custom_title=Z4ffarani&hide_title=true&hide_border=true" height="243" alt="activity-graph graph"  />
-</div>
-
-###
-
 <h1 align="left">Skills</h1>
 
 ![Programming Languages](https://skillicons.dev/icons?i=python,java,js,ts,solidity,html,css&theme=dark&perline=10)
