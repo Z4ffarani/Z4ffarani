@@ -1,7 +1,5 @@
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=Z4ffarani&theme=github_dark)
 
-<br>
-
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Z4ffarani&layout=compact&theme=github_dark)
 
 <h1 align="left">Skills</h1>
