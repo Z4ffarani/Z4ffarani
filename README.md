@@ -1,8 +1,6 @@
-<div align="center">
-  ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=Z4ffarani&show_icons=true&theme=github_dark)
-  ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=Z4ffarani&theme=github_dark)
-  ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Z4ffarani&layout=compact&theme=github_dark)
-</div>
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=Z4ffarani&show_icons=true&theme=github_dark)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=Z4ffarani&theme=github_dark)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Z4ffarani&layout=compact&theme=github_dark)
 
 <h1 align="left">Skills</h1>
 
