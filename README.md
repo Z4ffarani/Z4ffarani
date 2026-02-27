@@ -1,6 +1,7 @@
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Z4ffarani&locale=en&mode=daily&theme=aura_dark&hide_border=true&border_radius=10&order=3" height="140" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=Z4ffarani&show_icons=true&theme=aura_dark&hide_border=true&border_radius=10&order=3" height="140" alt="github stats" />
+  ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=Z4ffarani&show_icons=true&theme=aura_dark)
+  ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=Z4ffarani&theme=aura_dark)
+  ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Z4ffarani&layout=compact&theme=aura_dark)
 </div>
 
 <h1 align="left">Skills</h1>
