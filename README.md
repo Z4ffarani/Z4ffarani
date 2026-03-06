@@ -8,6 +8,6 @@
 
 ![Frameworks & Libraries](https://skillicons.dev/icons?i=react,next,tailwindcss,spring&theme=dark&perline=10)
 
-![Development Tools](https://skillicons.dev/icons?i=nodejs,npm,pnpm,git,postman&theme=dark&perline=10)
+![Development Tools](https://skillicons.dev/icons?i=postgresql,nodejs,npm,pnpm,git,postman&theme=dark&perline=10)
 
 ![Environments](https://skillicons.dev/icons?i=azure,docker,vercel&theme=dark&perline=10)
