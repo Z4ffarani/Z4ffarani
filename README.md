@@ -4,7 +4,7 @@
 
 <h1 align="left">Skills</h1>
 
-![Programming Languages](https://skillicons.dev/icons?i=python,java,js,ts,solidity,html,css&theme=dark&perline=10)
+![Programming Languages](https://skillicons.dev/icons?i=python,java,js,ts,html,css&theme=dark&perline=10)
 
 ![Frameworks & Libraries](https://skillicons.dev/icons?i=react,next,tailwindcss,spring&theme=dark&perline=10)
 
